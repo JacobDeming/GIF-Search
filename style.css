@@ -1,0 +1,33 @@
+#Preview img{
+	width: 500px;
+	height: 300px;
+	margin: 20px 0px 0px 50px;
+}
+
+#block{
+	background-color: grey;
+	width: 600px;
+	border-radius: 25px;
+	box-shadow: 5px 5px 1px black;
+}
+
+#block p{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
+
+#GIFView{
+	margin-bottom: 20px;
+}
+
+.Rating{
+	font-size: 20px;
+	margin-top: 10px;
+}
+
+img{
+	box-shadow: 5px 5px 1px black;
+}
